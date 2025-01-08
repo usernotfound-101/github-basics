@@ -1,0 +1,5 @@
+ Name: Venya Velmurugan
+ Branch: CLD
+ Place of residence: Bangalore
+ Hobbies: Reading, crocheting
+ Reason for joining IIIT: Wanted to explore CS research 
