@@ -1,0 +1,5 @@
+Name: Sushil Raaja U
+Branch: CSE
+Place of residence: Chennai
+Hobbies: Competitive Programming, Chess
+Reason for joining IIIT: To learn prompt engineering
